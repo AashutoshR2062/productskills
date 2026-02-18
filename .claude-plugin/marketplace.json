@@ -1,0 +1,38 @@
+{
+  "name": "productskills",
+  "owner": {
+    "name": "Tair Asim",
+    "url": "https://github.com/assimovt"
+  },
+  "metadata": {
+    "description": "Product skills for AI agents — discovery, strategy, prioritization, and PRD writing",
+    "version": "1.0.0",
+    "repository": "https://github.com/assimovt/productskills"
+  },
+  "plugins": [
+    {
+      "name": "product-skills",
+      "description": "16 product management skills for PMs and founders: user interviews, PRD writing, scope cutting, feature prioritization, positioning, strategy, metrics, and more",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/prd-writing",
+        "./skills/user-interview",
+        "./skills/scope-cutting",
+        "./skills/feature-prioritization",
+        "./skills/competitor-analysis",
+        "./skills/product-positioning",
+        "./skills/problem-validation",
+        "./skills/strategy-doc",
+        "./skills/metrics-framework",
+        "./skills/bet-sizing",
+        "./skills/jtbd-analysis",
+        "./skills/research-synthesis",
+        "./skills/opportunity-mapping",
+        "./skills/launch-plan",
+        "./skills/experiment-design",
+        "./skills/roadmap-planning"
+      ]
+    }
+  ]
+}
